@@ -1,0 +1,11 @@
+testlogin:
+  test_login_001:
+    email : '123@qq.com'
+
+login_in:
+  test_login_002:
+    email: '123@qq.com'
+    code : '666666 '
+
+
+
